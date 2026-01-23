@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\eliza\\Documents\\GitHub\\OfficeApp\\Code\\OfficeAppV1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{297F222D-273C-3E90-A16F-5B8FC57953C4}|OfficeApp\\OfficeApp.csproj|c:\\users\\eliza\\documents\\github\\officeapp\\code\\officeappv1\\officeapp\\word.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{297F222D-273C-3E90-A16F-5B8FC57953C4}|OfficeApp\\OfficeApp.csproj|solutionrelative:officeapp\\word.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{297F222D-273C-3E90-A16F-5B8FC57953C4}|OfficeApp\\OfficeApp.csproj|c:\\users\\eliza\\documents\\github\\officeapp\\code\\officeappv1\\officeapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{297F222D-273C-3E90-A16F-5B8FC57953C4}|OfficeApp\\OfficeApp.csproj|solutionrelative:officeapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
@@ -23,18 +19,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Word.xaml",
-              "DocumentMoniker": "C:\\Users\\eliza\\Documents\\GitHub\\OfficeApp\\Code\\OfficeAppV1\\OfficeApp\\Word.xaml",
-              "RelativeDocumentMoniker": "OfficeApp\\Word.xaml",
-              "ToolTip": "C:\\Users\\eliza\\Documents\\GitHub\\OfficeApp\\Code\\OfficeAppV1\\OfficeApp\\Word.xaml",
-              "RelativeToolTip": "OfficeApp\\Word.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-01-23T17:21:35.65Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\eliza\\Documents\\GitHub\\OfficeApp\\Code\\OfficeAppV1\\OfficeApp\\MainWindow.xaml",
               "RelativeDocumentMoniker": "OfficeApp\\MainWindow.xaml",
