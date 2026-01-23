@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\prepod\\Documents\\GitHub\\OfficeApp\\Code\\OfficeApp\\",
+  "WorkspaceRootPath": "C:\\Users\\step_student\\Documents\\GitHub\\OfficeApp\\Code\\OfficeApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{297F222D-273C-3E90-A16F-5B8FC57953C4}|OfficeApp\\OfficeApp.csproj|c:\\users\\prepod\\documents\\github\\officeapp\\code\\officeapp\\officeapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{297F222D-273C-3E90-A16F-5B8FC57953C4}|OfficeApp\\OfficeApp.csproj|c:\\users\\step_student\\documents\\github\\officeapp\\code\\officeapp\\officeapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{297F222D-273C-3E90-A16F-5B8FC57953C4}|OfficeApp\\OfficeApp.csproj|solutionrelative:officeapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{297F222D-273C-3E90-A16F-5B8FC57953C4}|OfficeApp\\OfficeApp.csproj|c:\\users\\prepod\\documents\\github\\officeapp\\code\\officeapp\\officeapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{297F222D-273C-3E90-A16F-5B8FC57953C4}|OfficeApp\\OfficeApp.csproj|c:\\users\\step_student\\documents\\github\\officeapp\\code\\officeapp\\officeapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{297F222D-273C-3E90-A16F-5B8FC57953C4}|OfficeApp\\OfficeApp.csproj|solutionrelative:officeapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,9 +24,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\prepod\\Documents\\GitHub\\OfficeApp\\Code\\OfficeApp\\OfficeApp\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\step_student\\Documents\\GitHub\\OfficeApp\\Code\\OfficeApp\\OfficeApp\\MainWindow.xaml",
               "RelativeDocumentMoniker": "OfficeApp\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\prepod\\Documents\\GitHub\\OfficeApp\\Code\\OfficeApp\\OfficeApp\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\step_student\\Documents\\GitHub\\OfficeApp\\Code\\OfficeApp\\OfficeApp\\MainWindow.xaml",
               "RelativeToolTip": "OfficeApp\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-01-23T15:48:37.412Z",
@@ -36,9 +36,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\prepod\\Documents\\GitHub\\OfficeApp\\Code\\OfficeApp\\OfficeApp\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\step_student\\Documents\\GitHub\\OfficeApp\\Code\\OfficeApp\\OfficeApp\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "OfficeApp\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\prepod\\Documents\\GitHub\\OfficeApp\\Code\\OfficeApp\\OfficeApp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\step_student\\Documents\\GitHub\\OfficeApp\\Code\\OfficeApp\\OfficeApp\\MainWindow.xaml.cs",
               "RelativeToolTip": "OfficeApp\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "e1FN7CYBiGc=",
+  "dgSpecHash": "86zdi17+HNg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\prepod\\Documents\\GitHub\\OfficeApp\\Code\\OfficeAppV1\\OfficeApp\\OfficeApp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\step_student\\Documents\\GitHub\\OfficeApp\\Code\\OfficeAppV1\\OfficeApp\\OfficeApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\step_student\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.22\\microsoft.windowsdesktop.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\step_student\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.22\\microsoft.netcore.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\step_student\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.22\\microsoft.aspnetcore.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\step_student\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.22\\microsoft.netcore.app.host.win-x64.8.0.22.nupkg.sha512"
+  ],
   "logs": []
 }
