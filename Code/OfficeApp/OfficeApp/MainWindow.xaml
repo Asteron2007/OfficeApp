@@ -6,7 +6,8 @@
         xmlns:local="clr-namespace:OfficeApp"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
+    <Grid Margin="0,133,211,0">
+        <Button></Button>
 
     </Grid>
 </Window>
