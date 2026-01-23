@@ -8,6 +8,7 @@
         Title="Word" Height="450" Width="800">
     <Grid>
         <TextBox HorizontalAlignment="Center" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Center" Width="346" Height="325"/>
+        <Button Content="Save" HorizontalAlignment="Left" Margin="25,10,0,0" VerticalAlignment="Top"/>
 
     </Grid>
 </Window>
