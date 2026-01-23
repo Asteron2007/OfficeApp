@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\prepod\\Documents\\GitHub\\OfficeApp\\Code\\OfficeApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F555D8D8-5655-4D4C-9DD7-5CD0AFA9841A}|OfficeApp\\OfficeApp.csproj|c:\\users\\prepod\\documents\\github\\officeapp\\code\\officeapp\\officeapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F555D8D8-5655-4D4C-9DD7-5CD0AFA9841A}|OfficeApp\\OfficeApp.csproj|solutionrelative:officeapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{297F222D-273C-3E90-A16F-5B8FC57953C4}|OfficeApp\\OfficeApp.csproj|c:\\users\\prepod\\documents\\github\\officeapp\\code\\officeapp\\officeapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{297F222D-273C-3E90-A16F-5B8FC57953C4}|OfficeApp\\OfficeApp.csproj|solutionrelative:officeapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F555D8D8-5655-4D4C-9DD7-5CD0AFA9841A}|OfficeApp\\OfficeApp.csproj|c:\\users\\prepod\\documents\\github\\officeapp\\code\\officeapp\\officeapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F555D8D8-5655-4D4C-9DD7-5CD0AFA9841A}|OfficeApp\\OfficeApp.csproj|solutionrelative:officeapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{297F222D-273C-3E90-A16F-5B8FC57953C4}|OfficeApp\\OfficeApp.csproj|c:\\users\\prepod\\documents\\github\\officeapp\\code\\officeapp\\officeapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{297F222D-273C-3E90-A16F-5B8FC57953C4}|OfficeApp\\OfficeApp.csproj|solutionrelative:officeapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,8 +42,7 @@
               "RelativeToolTip": "OfficeApp\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-23T15:48:34.912Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-23T15:48:34.912Z"
             }
           ]
         }
