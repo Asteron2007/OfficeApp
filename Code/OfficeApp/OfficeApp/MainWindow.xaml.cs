@@ -11,9 +11,7 @@ using System.Windows.Shapes;
 
 namespace OfficeApp
 {
-    /// <summary>
-    /// Interaction logic for MainWindow.xaml
-    /// </summary>
+    //123
     public partial class MainWindow : Window
     {
         public MainWindow()
