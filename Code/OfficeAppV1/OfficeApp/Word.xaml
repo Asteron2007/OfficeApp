@@ -7,7 +7,9 @@
         mc:Ignorable="d"
         Title="Word" Height="450" Width="800">
     <Grid>
-        <TextBlock HorizontalAlignment="Left" Margin="186,78,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Height="242" Width="328"/>
+        <TextBox HorizontalAlignment="Center" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Center" Width="346" Height="334"/>
+        <Button Content="Save" HorizontalAlignment="Left" Margin="25,10,0,0" VerticalAlignment="Top" Height="32" Width="51"/>
+        <Button Content="New" HorizontalAlignment="Left" Margin="102,10,0,0" VerticalAlignment="Top" Height="32" Width="51"/>
 
     </Grid>
 </Window>
