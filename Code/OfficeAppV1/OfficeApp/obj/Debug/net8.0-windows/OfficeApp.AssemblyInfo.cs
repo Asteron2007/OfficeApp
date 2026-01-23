@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OfficeApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f7ead3deea229e876924980858a2ed8ed73fada5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf588a6b1f983562da0095d9c9ee9d557215d81f")]
 [assembly: System.Reflection.AssemblyProductAttribute("OfficeApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OfficeApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
