@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\prepod\\Documents\\GitHub\\OfficeApp\\Code\\OfficeAppV1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{52B7FF79-DCA8-45B0-B0D5-AF1021D30C42}|OfficeApp\\OfficeApp.csproj|c:\\users\\prepod\\documents\\github\\officeapp\\code\\officeappv1\\officeapp\\officeapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{52B7FF79-DCA8-45B0-B0D5-AF1021D30C42}|OfficeApp\\OfficeApp.csproj|solutionrelative:officeapp\\officeapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{52B7FF79-DCA8-45B0-B0D5-AF1021D30C42}|OfficeApp\\OfficeApp.csproj|c:\\users\\prepod\\documents\\github\\officeapp\\code\\officeappv1\\officeapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{52B7FF79-DCA8-45B0-B0D5-AF1021D30C42}|OfficeApp\\OfficeApp.csproj|solutionrelative:officeapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
@@ -23,6 +27,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "OfficeApp",
+              "DocumentMoniker": "C:\\Users\\prepod\\Documents\\GitHub\\OfficeApp\\Code\\OfficeAppV1\\OfficeApp\\OfficeApp.csproj",
+              "RelativeDocumentMoniker": "OfficeApp\\OfficeApp.csproj",
+              "ToolTip": "C:\\Users\\prepod\\Documents\\GitHub\\OfficeApp\\Code\\OfficeAppV1\\OfficeApp\\OfficeApp.csproj",
+              "RelativeToolTip": "OfficeApp\\OfficeApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-23T16:23:10.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\prepod\\Documents\\GitHub\\OfficeApp\\Code\\OfficeAppV1\\OfficeApp\\MainWindow.xaml",
               "RelativeDocumentMoniker": "OfficeApp\\MainWindow.xaml",
@@ -34,7 +50,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\prepod\\Documents\\GitHub\\OfficeApp\\Code\\OfficeAppV1\\OfficeApp\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "OfficeApp\\MainWindow.xaml.cs",
