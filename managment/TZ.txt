@@ -13,6 +13,9 @@ a-la Painter - Арсений
 
 a-la excel
 a-la pdf -viewer ТСН
+
+- etot commit chtobi slomat GITHUB
+
 a-la Chess - Сергей
 - дизайн - Виктория
 ...
@@ -21,10 +24,11 @@ a-la Chess - Сергей
 commit 1
 
 
-Руководитель Турчин С.Н.
+Руководитель Иванов С.Н.
 Программист Матвеев А.Р. "a-la Painter"
 <<<<<<< HEAD
 Программист Елизарова С.Д. "a-la word" NE EXCEL
 =======
 Программист Елизарова С.Д. "a-la word" EXCEL
 >>>>>>> 62a771baf9b7b55dc33ce49ff292ebcaa25464e1
+
