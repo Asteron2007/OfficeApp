@@ -8,6 +8,10 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = OfficeApp
+<<<<<<< HEAD:Code/OfficeApp/OfficeApp/obj/Debug/net10.0-windows/OfficeApp.GeneratedMSBuildEditorConfig.editorconfig
 build_property.ProjectDir = C:\Users\Step_student\Source\Repos\OfficeApp\Code\OfficeApp\OfficeApp\
+=======
+build_property.ProjectDir = C:\Users\step_student\source\repos\OfficeApp\Code\OfficeApp\OfficeApp\
+>>>>>>> e07b82c6455580c9aca21009a1e0b7bf1d7e4868:Code/OfficeApp/OfficeApp/obj/Release/net10.0-windows/OfficeApp.GeneratedMSBuildEditorConfig.editorconfig
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
